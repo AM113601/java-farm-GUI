@@ -1,0 +1,4 @@
+farmID,totalWeight,percentageOfTotal
+Farm 2,109010,18.4842%
+Farm 1,270643,45.8915%
+Farm 0,210093,35.6243%

@@ -1,0 +1,14 @@
+year,farm_id,weight,% of total weight
+2019-January,Farm 2,109010,18.4842%
+2019-February,Farm 2,97524,18.3560%
+2019-March,Farm 2,0,N/A%
+2019-April,Farm 2,0,N/A%
+2019-May,Farm 2,0,N/A%
+2019-June,Farm 2,0,N/A%
+2019-July,Farm 2,0,N/A%
+2019-August,Farm 2,0,N/A%
+2019-September,Farm 2,0,N/A%
+2019-October,Farm 2,0,N/A%
+2019-November,Farm 2,0,N/A%
+2019-December,Farm 2,0,0.0000%
+

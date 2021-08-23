@@ -1,0 +1,4 @@
+farmID,totalWeight,percentageOfTotal,minWeightOneMonth,maxWeightOneMonth,avgWeightPerMonth
+Farm 2,218003,18.4880%,0,109300,18166.9167
+Farm 1,543113,46.0594%,0,271647,45259.4167
+Farm 0,418042,35.4526%,0,209498,34836.8333
